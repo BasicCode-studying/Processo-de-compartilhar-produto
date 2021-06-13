@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Share&display=swap');
+
+body {
+
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    background: #FFFFFF;
+    font-family: Share;
+    font-size: large;
+    height: 1024px;
+    max-width: 100%;
+
+}
+
+main {
+    margin-top: 10px;
+}
+
+nav#mainNav {
+    padding: 35px 50px;
+    background-color: white;
+}
+
+section#mainSection {
+    align-items: center;
+    align-content: center;
+    margin-top: 3rem;
+}
+
+.entrarBtn {
+    color: white;
+    width: 180px;
+    height: 49px;
+    left: 1122px;
+    top: 52px;
+    background: #B52727;
+    border-radius: 0px 20px 20px 0px;
+}
+
+
+
+.mainBtn {
+    margin: 0.5rem 0;
+    background: rgba(46, 46, 50, 0.75);
+    color: white;
+    box-sizing: border-box; 
+    border-radius: 5px;
+    border-width: 2px;
+    max-width: 100%;
+}
+
+.btn-con {
+    margin: 0.5rem 0;
+    background: #B52727;
+    color: white;
+    box-sizing: border-box; 
+    border-radius: 5px;
+    border-width: 2px;
+    max-width: 100%;
+}
+
+.form-img {
+    width: 150px;
+    height: 600px;
+    background-color: rgb(255, 255, 255); /* cor do container */
+    border: 0.6px solid #000000; /* borda */
+    padding: 2%; /* distancia do conteudo para os componenentes */
+    margin: 5% 5% 1% 4%; /* margin */
+    text-align: center;
+    max-width: 100%; 
+
+}
+
+.form-pro {
+    background-color: rgb(255, 255, 255); /* cor do container */
+    border: 0.6px solid #000000; /* borda */
+    padding: 2%; /* distancia do conteudo para os componenentes */
+    margin: 5% 5% 1% 4%; /* margin */ 
+    max-width: 100%;
+
+}
